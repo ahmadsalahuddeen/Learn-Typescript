@@ -27,7 +27,7 @@ Resources
 I will be using various resources to learn TypeScript. Here are some of the resources I plan to use:
 
 -   [TypeScript documentation](https://www.typescriptlang.org/docs/)
--   [TypeScript course on Udemy](https://www.udemy.com/course/typescript-the-complete-developers-guide/)
+-   [TypeScript Playlist on YouTube by Jack Herrington](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 -   [TypeScript tutorial on FreeCodeCamp](https://www.freecodecamp.org/news/the-definitive-typescript-handbook/)
 -   [React with TypeScript tutorial on official React documentation](https://reactjs.org/docs/typescript.html)
 
