@@ -17,4 +17,4 @@ let regularExpression: RegExp = /foo/
 
 let [firstName , lastName]: string[] = Username.split(' ')
 
-console.log(firstName,' ',  lastName)  
+console.log(firstName,' ',  lastName)                             
