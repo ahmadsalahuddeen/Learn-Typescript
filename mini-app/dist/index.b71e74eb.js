@@ -581,6 +581,7 @@ new (0, _customMap.CustomMap)("map");
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "CustomMap", ()=>CustomMap);
+impo;
 class CustomMap {
     constructor(divId){
         this.googleMap = new google.maps.Map(document.getElementById(divId), {
