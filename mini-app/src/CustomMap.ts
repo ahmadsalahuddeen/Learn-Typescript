@@ -1,4 +1,4 @@
-import {} from 'googlemaps'
+
 interface Marker {
 location: {
   lat: number;
